@@ -1,5 +1,7 @@
 # Trainee Application by Shreya Chaudhuury
 
+To directly run this application, click on this link :
+https://shreya-98.github.io/trainee-application/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
